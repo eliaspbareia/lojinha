@@ -1,7 +1,7 @@
 # Lojinha
 
-## Lojinha da Adriana
+### Lojinha da Adriana
 
-### TEstando git
+Fazendo testes com o git e git hub
 
-Gostou do curso?
+Espero que dê certo.
